@@ -21,8 +21,8 @@
           style="font-weight: 350;font-size:230%"
         >
           <b>
-            tecnologias de la
-            <span style="color: #1a73e8;">Informacion </span>.
+            Analisis , Ciencias y 
+            <span style="color: #1a73e8;">Mineria de datos </span>.
           </b>
         </p>
         <p class="google-font mt-0 mb-0" style="font-size:150%">{{config.generalConfig.name}}</p>
